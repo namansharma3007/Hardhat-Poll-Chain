@@ -1,5 +1,7 @@
 # Sample Hardhat Project
 
+## Link to main project: https://github.com/namansharma3007/Poll-Chain-frontend
+
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
 Try running some of the following tasks:
